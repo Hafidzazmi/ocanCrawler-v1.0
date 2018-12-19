@@ -12,8 +12,8 @@ from domain import *
 from general import *
 
 
-PROJECT_NAME = 'thenewboston1'
-HOMEPAGE = 'https://www.ifcmarkets.my/'
+PROJECT_NAME = 'file_name'
+HOMEPAGE = 'https://www.example.com/'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 QUEUE_FILE = PROJECT_NAME + '/queue.txt'
 CRAWLED_FILE = PROJECT_NAME + '/crawled.txt'
